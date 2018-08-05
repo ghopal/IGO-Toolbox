@@ -7,6 +7,7 @@ Aplikasi untuk mengunduh seluruh album foto dan video secara otomatis. Hanya dap
 - Full backup foto & video
 - Tidak mengunduh kembali file yang telah tersimpan
 - Dapat mengunduh album pada akun yang terkunci maupun yang tidak terkunci. Khusus akun yg dikunci harus difollow terlebih dahulu.
+- Nama album berdasarkan akun IG, konten terpisah berdasarkan jenis konten foto / video
 - Proses berjalan sotomatis (simpel, praktis & efektif) :D
 
 # Requirement
