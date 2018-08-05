@@ -31,5 +31,9 @@ Aplikasi untuk mengunduh seluruh album foto dan video secara otomatis. Hanya dap
 - Setelah itu buka console, kemudian masuk folder IGO-Toolbox. Lalu eksekusi langkah run
 
 # Run
-----
+-----
 - npm start
+
+# License
+-----
+- WTFPL
