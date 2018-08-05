@@ -12,7 +12,7 @@ Aplikasi untuk mengunduh seluruh album foto dan video secara otomatis. Hanya dap
 
 # Requirement
 -----
-- Node.js V8.10.x
+- Node.js v8.11.x
 
 # Install 
 -----
