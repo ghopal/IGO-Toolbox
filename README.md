@@ -9,6 +9,10 @@ Aplikasi untuk mengunduh seluruh album foto dan video secara otomatis. Hanya dap
 - Dapat mengunduh album pada akun yang terkunci maupun yang tidak terkunci. Khusus akun yg dikunci harus difollow terlebih dahulu.
 - Proses berjalan sotomatis (simpel, praktis & efektif) :D
 
+# Requirement
+-----
+- Node.js V8.10.x
+
 # Install 
 -----
 - git clone https://github.com/ghopal/IGO-Toolbox.git
