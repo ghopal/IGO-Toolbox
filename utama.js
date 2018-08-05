@@ -140,7 +140,7 @@ if(_.isObject(konfigurasi) === true){
             callback('Skip.');
         });
     }, 1);
-    queue_download.drain = function() {
+    queue_antrian_akun.drain = function() {
         console.log('Proses mengunduh galeri dalam daftar akun telah selesai. 100% completed. Tekan CTRL+C untuk keluar.');
     }; 
     IGO.Auth()          
